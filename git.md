@@ -20,3 +20,8 @@ $ git push origin master
 ```
 git config --global user.signingkey 3AA5C34371567BD2
 ```
+
+## Change Message or data after Commit but before Push
+```
+git commit --amend
+```
